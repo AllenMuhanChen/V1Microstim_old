@@ -10,6 +10,7 @@ import org.xper.experiment.ExperimentTask;
 public class XmlUtil {
 	public static Document parseSpec(String xml) {
 		try {
+			System.out.println(xml);//AC
 			Document doc = DocumentHelper.parseText(xml);
 			return doc;
 		} catch (DocumentException e) {
