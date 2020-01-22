@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1019/trunk/xper/src/org/xper/classic/vo
+END
+SlideTrialExperimentState.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/578/trunk/xper/src/org/xper/classic/vo/SlideTrialExperimentState.java
+END
+TrialExperimentState.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/578/trunk/xper/src/org/xper/classic/vo/TrialExperimentState.java
+END
+TrialContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/843/trunk/xper/src/org/xper/classic/vo/TrialContext.java
+END
+SlideEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/332/trunk/xper/src/org/xper/classic/vo/SlideEvent.java
+END
+TrialStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/357/trunk/xper/src/org/xper/classic/vo/TrialStatistics.java
+END
+TrialResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1019/trunk/xper/src/org/xper/classic/vo/TrialResult.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception
+END
+ExperimentSetupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/ExperimentSetupException.java
+END
+OverflowException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/OverflowException.java
+END
+InvalidAcqDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/InvalidAcqDataException.java
+END
+NoMoreAcqDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/NoMoreAcqDataException.java
+END
+RemoteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/RemoteException.java
+END
+ComediException.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/ComediException.java
+END
+ThreadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/ThreadException.java
+END
+FileURLFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/FileURLFormatException.java
+END
+VariableNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/VariableNotFoundException.java
+END
+XmlDocInvalidFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/XmlDocInvalidFormatException.java
+END
+AcqException.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/AcqException.java
+END
+MockAcqDataIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/MockAcqDataIOException.java
+END
+NiException.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/NiException.java
+END
+XGLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/XGLException.java
+END
+DbException.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/DbException.java
+END
+RuntimeIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/562/trunk/xper/src/org/xper/exception/RuntimeIOException.java
+END

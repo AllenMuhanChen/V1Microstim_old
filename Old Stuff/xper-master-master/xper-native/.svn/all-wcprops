@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/841/trunk/xper-native
+END
+bindcpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/766/trunk/xper-native/bindcpu.c
+END
+comedi_analog_streaming_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/418/trunk/xper-native/comedi_analog_streaming_device.c
+END
+common.mk
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/764/trunk/xper-native/common.mk
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/764/trunk/xper-native/.cproject
+END
+ni_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/277/trunk/xper-native/ni_common.c
+END
+windows.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/708/trunk/xper-native/windows.mk
+END
+ni_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/714/trunk/xper-native/ni_common.h
+END
+comedi_analog_sampling_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/418/trunk/xper-native/comedi_analog_sampling_device.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/630/trunk/xper-native/makefile
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/708/trunk/xper-native/.project
+END
+ni_analog_sw_out_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/293/trunk/xper-native/ni_analog_sw_out_device.c
+END
+ni_digital_port_out_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/546/trunk/xper-native/ni_digital_port_out_device.c
+END
+ni_analog_sw_out_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/838/trunk/xper-native/ni_analog_sw_out_device.h
+END
+os_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/708/trunk/xper-native/os_util.c
+END
+ni_analog_streaming_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/387/trunk/xper-native/ni_analog_streaming_device.c
+END
+ni_digital_port_out_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/838/trunk/xper-native/ni_digital_port_out_device.h
+END
+comedi_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/418/trunk/xper-native/comedi_common.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/277/trunk/xper-native/util.c
+END
+os_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/765/trunk/xper-native/os_util.h
+END
+linux.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/764/trunk/xper-native/linux.mk
+END
+ni_analog_streaming_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/838/trunk/xper-native/ni_analog_streaming_device.h
+END
+ni_analog_sampling_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/293/trunk/xper-native/ni_analog_sampling_device.c
+END
+macos.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/838/trunk/xper-native/macos.mk
+END
+xper-ni.def
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/293/trunk/xper-native/xper-ni.def
+END
+comedi_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/562/trunk/xper-native/comedi_common.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/277/trunk/xper-native/util.h
+END
+xper.def
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/574/trunk/xper-native/xper.def
+END
+ni_analog_sampling_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/838/trunk/xper-native/ni_analog_sampling_device.h
+END
+comedi_digital_port_out_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/592/trunk/xper-native/comedi_digital_port_out_device.c
+END
+comedi_analog_sw_out_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/418/trunk/xper-native/comedi_analog_sw_out_device.c
+END

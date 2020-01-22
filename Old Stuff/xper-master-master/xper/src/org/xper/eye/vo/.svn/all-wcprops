@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/vo
+END
+EyeDeviceMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/vo/EyeDeviceMessage.java
+END
+EyeZeroMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/vo/EyeZeroMessage.java
+END
+EyeDeviceIdChannelPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/357/trunk/xper/src/org/xper/eye/vo/EyeDeviceIdChannelPair.java
+END
+EyePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/vo/EyePosition.java
+END
+EyeDeviceChannelSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/357/trunk/xper/src/org/xper/eye/vo/EyeDeviceChannelSpec.java
+END
+EyeWindowMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/vo/EyeWindowMessage.java
+END
+EyeDeviceReading.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/vo/EyeDeviceReading.java
+END
+EyeWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/vo/EyeWindow.java
+END

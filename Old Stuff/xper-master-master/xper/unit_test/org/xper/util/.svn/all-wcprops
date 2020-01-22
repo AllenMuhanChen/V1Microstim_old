@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/819/trunk/xper/unit_test/org/xper/util
+END
+BitOpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/359/trunk/xper/unit_test/org/xper/util/BitOpTest.java
+END
+FileUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/632/trunk/xper/unit_test/org/xper/util/FileUtilTest.java
+END
+SocketUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/357/trunk/xper/unit_test/org/xper/util/SocketUtilTest.java
+END
+ManagementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/361/trunk/xper/unit_test/org/xper/util/ManagementTest.java
+END
+MacOsTimeUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/819/trunk/xper/unit_test/org/xper/util/MacOsTimeUtilTest.java
+END
+StringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/359/trunk/xper/unit_test/org/xper/util/StringTest.java
+END
+DbUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/819/trunk/xper/unit_test/org/xper/util/DbUtilTest.java
+END

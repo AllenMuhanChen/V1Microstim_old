@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/569/trunk/xper/src/org/xper/juice
+END
+Juice.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/275/trunk/xper/src/org/xper/juice/Juice.java
+END
+AnalogJuice.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/569/trunk/xper/src/org/xper/juice/AnalogJuice.java
+END
+DigitalPortJuice.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/569/trunk/xper/src/org/xper/juice/DigitalPortJuice.java
+END
+DynamicJuice.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/275/trunk/xper/src/org/xper/juice/DynamicJuice.java
+END

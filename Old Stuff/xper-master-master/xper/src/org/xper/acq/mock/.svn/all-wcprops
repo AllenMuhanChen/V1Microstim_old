@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/933/trunk/xper/src/org/xper/acq/mock
+END
+SocketSamplingDeviceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/933/trunk/xper/src/org/xper/acq/mock/SocketSamplingDeviceClient.java
+END
+EmptySamplingDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/569/trunk/xper/src/org/xper/acq/mock/EmptySamplingDevice.java
+END
+SocketSamplingDeviceServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/917/trunk/xper/src/org/xper/acq/mock/SocketSamplingDeviceServer.java
+END

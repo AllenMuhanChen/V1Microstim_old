@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/zero
+END
+EyeZeroAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/zero/EyeZeroAlgorithm.java
+END
+MovingAverageEyeZeroAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/zero/MovingAverageEyeZeroAlgorithm.java
+END
+EyeZeroAdjustable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/294/trunk/xper/src/org/xper/eye/zero/EyeZeroAdjustable.java
+END
+EyeZeroMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/zero/EyeZeroMessageListener.java
+END

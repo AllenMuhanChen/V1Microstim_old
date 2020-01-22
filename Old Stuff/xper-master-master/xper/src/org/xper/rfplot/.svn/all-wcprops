@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/896/trunk/xper/src/org/xper/rfplot
+END
+RFPlotTaskDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/578/trunk/xper/src/org/xper/rfplot/RFPlotTaskDataSource.java
+END
+RFPlotTaskDataSourceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/569/trunk/xper/src/org/xper/rfplot/RFPlotTaskDataSourceClient.java
+END
+RFPlotControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/480/trunk/xper/src/org/xper/rfplot/RFPlotControl.java
+END
+RFPlotScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/896/trunk/xper/src/org/xper/rfplot/RFPlotScene.java
+END
+RFPlotConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/896/trunk/xper/src/org/xper/rfplot/RFPlotConfig.java
+END
+GaborSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/683/trunk/xper/src/org/xper/rfplot/GaborSpec.java
+END
+RFPlotGaborObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/896/trunk/xper/src/org/xper/rfplot/RFPlotGaborObject.java
+END
+RFPlotXfmSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/659/trunk/xper/src/org/xper/rfplot/RFPlotXfmSpec.java
+END
+RFPlotStimSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/485/trunk/xper/src/org/xper/rfplot/RFPlotStimSpec.java
+END
+RFPlotDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/680/trunk/xper/src/org/xper/rfplot/RFPlotDrawable.java
+END

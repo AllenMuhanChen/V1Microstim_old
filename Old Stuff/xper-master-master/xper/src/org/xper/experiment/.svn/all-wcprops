@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/955/trunk/xper/src/org/xper/experiment
+END
+ExperimentRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/578/trunk/xper/src/org/xper/experiment/ExperimentRunner.java
+END
+Experiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/275/trunk/xper/src/org/xper/experiment/Experiment.java
+END
+EyeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/955/trunk/xper/src/org/xper/experiment/EyeController.java
+END
+DatabaseSystemVariableContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/569/trunk/xper/src/org/xper/experiment/DatabaseSystemVariableContainer.java
+END
+TaskDoneCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/332/trunk/xper/src/org/xper/experiment/TaskDoneCache.java
+END
+TaskDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/484/trunk/xper/src/org/xper/experiment/TaskDataSource.java
+END
+ExperimentRunnerClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/569/trunk/xper/src/org/xper/experiment/ExperimentRunnerClient.java
+END
+Stoppable.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/275/trunk/xper/src/org/xper/experiment/Stoppable.java
+END
+SystemVariableContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/275/trunk/xper/src/org/xper/experiment/SystemVariableContainer.java
+END
+DatabaseTaskDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/578/trunk/xper/src/org/xper/experiment/DatabaseTaskDataSource.java
+END
+Threadable.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/275/trunk/xper/src/org/xper/experiment/Threadable.java
+END
+StimSpecGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/275/trunk/xper/src/org/xper/experiment/StimSpecGenerator.java
+END
+ExperimentTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/479/trunk/xper/src/org/xper/experiment/ExperimentTask.java
+END
+BatchTaskDoneCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/569/trunk/xper/src/org/xper/experiment/BatchTaskDoneCache.java
+END

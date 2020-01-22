@@ -1,0 +1,43 @@
+1. Fixation spot appears
+
+2. Once monkeys eyes enters the target area, there is a delay of 500 ms (T1) 
+before the first visual object (O1) is shown, centred around the fixation spot. 
+The object remains on for about 750 ms (T2) and then disappears, 
+leaving the fixation spot still on.
+
+3. There is a delay of 750 ms (T3) after O1 disappears when it is 
+just the fixation spot on screen, after which the second visual object 
+is shown (O2), which also remains on for another 750 ms (T4).
+
+4. After T4 is past O2 disappears, leaving just the fixation spot still 
+remaining for an additional time of 750 ms (T5), after which the fixation 
+spot disappears and two circular targets appear, one blue and the other 
+yellow on diametrically opposite sides of the erstwhile position of the fixation spot.
+
+5. The two targets stay on for about 1000 ms during which the monkey is 
+free to make a saccade to any one of the two targets. Once the monkey has made 
+its choice by making a saccade to one of the two targets, the non-chosen target 
+disappears leaving the monkey to remain inside the chosen target area for about 
+500 ms (T6). During this time the monkey cannot look away from the target. Following 
+this the monkey is given the reward corresponding to the target it has picked.
+
+6. After an inter-trial interval (T7) during which the monkey is allowed to 
+freely shift its gaze the fixation spot appears again and the trial is repeated 
+in this manner.
+ 
+During times T1 through T5, the fixation spot is on, and the monkey must maintain 
+its gaze on the spot. If the monkey, at any time, allows its gaze to stray outside 
+the fixation area, the the trial is aborted. During time T6 the monkey has to maintain 
+fixation on the target it made its first saccade to - doing otherwise, would again 
+cause the trial to be aborted.
+ 
+The two saccade target can appear in any of eight configurations around the central 
+area - along the two cardinal axes and the two principal diagonals; the saccade target 
+configuration is randomly chosen. The blue target represents the O1, while the yellow 
+one represents O2. Both O1 and O2 will be chosen as per the operative genetic algorithm. 
+One of the parameters in the parametric set that defines each object will specify the 
+reward associated with that object. For every trial, once the O1 and O2 and chosen, 
+according to the reward parameters, rewards will be assigned to the blue and the yellow 
+targets at the beginning of the trial. Therefore, when the monkey picks one of the two 
+targets, it will be rewarded appropriately.
+ 

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/971/trunk/xper/src/org/xper/util
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/468/trunk/xper/src/org/xper/util/DateUtil.java
+END
+ThreadUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/837/trunk/xper/src/org/xper/util/ThreadUtil.java
+END
+MathUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/922/trunk/xper/src/org/xper/util/MathUtil.java
+END
+OsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/572/trunk/xper/src/org/xper/util/OsUtil.java
+END
+DbUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/837/trunk/xper/src/org/xper/util/DbUtil.java
+END
+ResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/359/trunk/xper/src/org/xper/util/ResourceManager.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/638/trunk/xper/src/org/xper/util/FileUtil.java
+END
+GuiUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/907/trunk/xper/src/org/xper/util/GuiUtil.java
+END
+EventUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/659/trunk/xper/src/org/xper/util/EventUtil.java
+END
+XmlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/948/trunk/xper/src/org/xper/util/XmlUtil.java
+END
+ThreadHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/332/trunk/xper/src/org/xper/util/ThreadHelper.java
+END
+SocketUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/562/trunk/xper/src/org/xper/util/SocketUtil.java
+END
+TrialExperimentUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/971/trunk/xper/src/org/xper/util/TrialExperimentUtil.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/275/trunk/xper/src/org/xper/util/StringUtil.java
+END
+AcqUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1027/trunk/xper/src/org/xper/util/AcqUtil.java
+END

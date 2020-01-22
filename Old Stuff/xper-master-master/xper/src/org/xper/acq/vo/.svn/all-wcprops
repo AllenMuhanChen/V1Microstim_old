@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/382/trunk/xper/src/org/xper/acq/vo
+END
+DigitalChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/340/trunk/xper/src/org/xper/acq/vo/DigitalChannel.java
+END
+ChannelFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/382/trunk/xper/src/org/xper/acq/vo/ChannelFilter.java
+END
+ComediChannelSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/379/trunk/xper/src/org/xper/acq/vo/ComediChannelSpec.java
+END
+NiChannelSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/340/trunk/xper/src/org/xper/acq/vo/NiChannelSpec.java
+END

@@ -1,0 +1,6 @@
+K 13
+svn:mergeinfo
+V 143
+/branches/1.0/xper/src/org/xper/time/SynchronizedJdkTimeUtil.java:530
+/branches/2.0/xper/src/org/xper/time/SynchronizedJdkTimeUtil.java:531-561
+END

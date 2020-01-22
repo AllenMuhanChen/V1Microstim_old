@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/275/trunk/xper/lib/MinGW-NIDAQmx
+END
+libnidaq.a
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/275/trunk/xper/lib/MinGW-NIDAQmx/libnidaq.a
+END
+NIDAQmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/275/trunk/xper/lib/MinGW-NIDAQmx/NIDAQmx.h
+END

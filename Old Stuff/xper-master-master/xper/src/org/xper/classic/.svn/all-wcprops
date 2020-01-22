@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1019/trunk/xper/src/org/xper/classic
+END
+JvmManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/569/trunk/xper/src/org/xper/classic/JvmManager.java
+END
+DynamicJuiceUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/569/trunk/xper/src/org/xper/classic/DynamicJuiceUpdater.java
+END
+TrialExperimentConsoleRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/778/trunk/xper/src/org/xper/classic/TrialExperimentConsoleRenderer.java
+END
+TrialRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/332/trunk/xper/src/org/xper/classic/TrialRunner.java
+END
+ExperimentProfiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/365/trunk/xper/src/org/xper/classic/ExperimentProfiler.java
+END
+EyeMonitorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/569/trunk/xper/src/org/xper/classic/EyeMonitorController.java
+END
+TrialDrawingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/348/trunk/xper/src/org/xper/classic/TrialDrawingController.java
+END
+SlideTrialExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/979/trunk/xper/src/org/xper/classic/SlideTrialExperiment.java
+END
+DataAcqController.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/971/trunk/xper/src/org/xper/classic/DataAcqController.java
+END
+SlideRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/332/trunk/xper/src/org/xper/classic/SlideRunner.java
+END
+MarkEveryStepTrialDrawingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/979/trunk/xper/src/org/xper/classic/MarkEveryStepTrialDrawingController.java
+END
+SlideEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/294/trunk/xper/src/org/xper/classic/SlideEventListener.java
+END
+JuiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/985/trunk/xper/src/org/xper/classic/JuiceController.java
+END
+TrialExperimentMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/962/trunk/xper/src/org/xper/classic/TrialExperimentMessageDispatcher.java
+END
+TrialExperimentEyeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/955/trunk/xper/src/org/xper/classic/TrialExperimentEyeController.java
+END
+SlideEventLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/837/trunk/xper/src/org/xper/classic/SlideEventLogger.java
+END
+TrialEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/363/trunk/xper/src/org/xper/classic/TrialEventListener.java
+END
+MarkStimTrialDrawingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/853/trunk/xper/src/org/xper/classic/MarkStimTrialDrawingController.java
+END
+TrialExperimentMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/659/trunk/xper/src/org/xper/classic/TrialExperimentMessageHandler.java
+END
+TrialEventLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/365/trunk/xper/src/org/xper/classic/TrialEventLogger.java
+END

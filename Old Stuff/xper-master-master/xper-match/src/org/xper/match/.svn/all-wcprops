@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/967/trunk/xper-match/src/org/xper/match
+END
+MatchTrialExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/967/trunk/xper-match/src/org/xper/match/MatchTrialExperiment.java
+END
+MatchTrialEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/957/trunk/xper-match/src/org/xper/match/MatchTrialEventListener.java
+END
+MatchExperimentMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/965/trunk/xper-match/src/org/xper/match/MatchExperimentMessageDispatcher.java
+END
+MatchTrialEventLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/957/trunk/xper-match/src/org/xper/match/MatchTrialEventLogger.java
+END
+MatchExperimentConsoleRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/799/trunk/xper-match/src/org/xper/match/MatchExperimentConsoleRenderer.java
+END
+DefaultMatchTrialDrawingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/954/trunk/xper-match/src/org/xper/match/DefaultMatchTrialDrawingController.java
+END
+MatchExperimentMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/957/trunk/xper-match/src/org/xper/match/MatchExperimentMessageHandler.java
+END
+AbstractMatchTaskScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/799/trunk/xper-match/src/org/xper/match/AbstractMatchTaskScene.java
+END
+MatchTaskScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/676/trunk/xper-match/src/org/xper/match/MatchTaskScene.java
+END

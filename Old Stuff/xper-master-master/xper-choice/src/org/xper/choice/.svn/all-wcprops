@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/986/trunk/xper-choice/src/org/xper/choice
+END
+ChoiceExperimentJuiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/623/trunk/xper-choice/src/org/xper/choice/ChoiceExperimentJuiceController.java
+END
+ChoiceTrialExperimentMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/956/trunk/xper-choice/src/org/xper/choice/ChoiceTrialExperimentMessageDispatcher.java
+END
+ChoiceExperimentConsoleRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/779/trunk/xper-choice/src/org/xper/choice/ChoiceExperimentConsoleRenderer.java
+END
+DefaultChoiceTrialExperimentDrawingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/641/trunk/xper-choice/src/org/xper/choice/DefaultChoiceTrialExperimentDrawingController.java
+END
+ChoiceTrialEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/956/trunk/xper-choice/src/org/xper/choice/ChoiceTrialEventListener.java
+END
+ChoiceTaskScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/661/trunk/xper-choice/src/org/xper/choice/ChoiceTaskScene.java
+END
+ChoiceTrialDrawingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/623/trunk/xper-choice/src/org/xper/choice/ChoiceTrialDrawingController.java
+END
+ChoiceTrialEventLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/956/trunk/xper-choice/src/org/xper/choice/ChoiceTrialEventLogger.java
+END
+AbstractChoiceTaskScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/665/trunk/xper-choice/src/org/xper/choice/AbstractChoiceTaskScene.java
+END
+ChoiceTrialExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/956/trunk/xper-choice/src/org/xper/choice/ChoiceTrialExperiment.java
+END
+ChoiceExperimentMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/956/trunk/xper-choice/src/org/xper/choice/ChoiceExperimentMessageHandler.java
+END

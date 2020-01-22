@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/958/trunk/xper-match-choice/src/org/xper/matchchoice/vo
+END
+MatchChoiceTargetMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/792/trunk/xper-match-choice/src/org/xper/matchchoice/vo/MatchChoiceTargetMessage.java
+END
+MatchChoiceTrialContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/958/trunk/xper-match-choice/src/org/xper/matchchoice/vo/MatchChoiceTrialContext.java
+END
+MatchChoiceTrialExperimentState.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/958/trunk/xper-match-choice/src/org/xper/matchchoice/vo/MatchChoiceTrialExperimentState.java
+END
+MatchChoiceSelectionMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/782/trunk/xper-match-choice/src/org/xper/matchchoice/vo/MatchChoiceSelectionMessage.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/strategy
+END
+AnyEyeInStategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/strategy/AnyEyeInStategy.java
+END
+EyeInStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/strategy/EyeInStrategy.java
+END
+MonoEyeInStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/strategy/MonoEyeInStrategy.java
+END
+StereoEyeInStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/strategy/StereoEyeInStrategy.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/357/trunk/xper/src/org/xper/acq/player
+END
+HalfDigitalChannelPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1022/trunk/xper/src/org/xper/acq/player/HalfDigitalChannelPlayer.java
+END
+QuadUpDigitalChannelPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1022/trunk/xper/src/org/xper/acq/player/QuadUpDigitalChannelPlayer.java
+END
+DigitalChannelPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1022/trunk/xper/src/org/xper/acq/player/DigitalChannelPlayer.java
+END
+AnalogDataPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1022/trunk/xper/src/org/xper/acq/player/AnalogDataPlayer.java
+END
+DigitalPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/332/trunk/xper/src/org/xper/acq/player/DigitalPlayer.java
+END
+QuadCenterDigitalChannelPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1022/trunk/xper/src/org/xper/acq/player/QuadCenterDigitalChannelPlayer.java
+END
+QuadDownDigitalChannelPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1022/trunk/xper/src/org/xper/acq/player/QuadDownDigitalChannelPlayer.java
+END
+AnalogChannelPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/357/trunk/xper/src/org/xper/acq/player/AnalogChannelPlayer.java
+END
+QuadDigitalChannelPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1022/trunk/xper/src/org/xper/acq/player/QuadDigitalChannelPlayer.java
+END
+AnalogPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1022/trunk/xper/src/org/xper/acq/player/AnalogPlayer.java
+END

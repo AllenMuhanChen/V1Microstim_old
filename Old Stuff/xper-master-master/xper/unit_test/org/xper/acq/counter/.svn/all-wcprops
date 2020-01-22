@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/819/trunk/xper/unit_test/org/xper/acq/counter
+END
+MarkEveryStepExperimentSpikeCounterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1028/trunk/xper/unit_test/org/xper/acq/counter/MarkEveryStepExperimentSpikeCounterTest.java
+END
+acq_data_2014_06_23.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1026/trunk/xper/unit_test/org/xper/acq/counter/acq_data_2014_06_23.txt
+END
+acq_data_2014_06_23_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1028/trunk/xper/unit_test/org/xper/acq/counter/acq_data_2014_06_23_2.txt
+END
+MarkStimExperimentSpikeCounterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/819/trunk/xper/unit_test/org/xper/acq/counter/MarkStimExperimentSpikeCounterTest.java
+END
+acq_data_2014_06_18.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1023/trunk/xper/unit_test/org/xper/acq/counter/acq_data_2014_06_18.txt
+END

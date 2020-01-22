@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/461/trunk/xper/src/org/xper/db/vo
+END
+RFInfoEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/RFInfoEntry.java
+END
+InternalStateVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/InternalStateVariable.java
+END
+ExpLogEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/ExpLogEntry.java
+END
+TaskDoneEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/TaskDoneEntry.java
+END
+SystemVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/461/trunk/xper/src/org/xper/db/vo/SystemVariable.java
+END
+AcqSessionEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/AcqSessionEntry.java
+END
+TaskToDoEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/TaskToDoEntry.java
+END
+ThumbnailEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/ThumbnailEntry.java
+END
+GenerationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/GenerationInfo.java
+END
+GenerationTaskToDoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/GenerationTaskToDoList.java
+END
+TaskSpikeRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/TaskSpikeRate.java
+END
+RFStimSpecEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/RFStimSpecEntry.java
+END
+GenerationTaskDoneList.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/GenerationTaskDoneList.java
+END
+AcqDataEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/AcqDataEntry.java
+END
+XfmSpecEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/XfmSpecEntry.java
+END
+BehMsgEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/BehMsgEntry.java
+END
+StimSpecEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/357/trunk/xper/src/org/xper/db/vo/StimSpecEntry.java
+END

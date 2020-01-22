@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/837/trunk/xper/lib/spring-framework
+END
+spring-webmvc-portlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-webmvc-portlet.jar
+END
+spring-web.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-web.jar
+END
+spring-jdbc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-jdbc.jar
+END
+spring-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-core.jar
+END
+spring-aop.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-aop.jar
+END
+spring-beans.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-beans.jar
+END
+spring-javaconfig.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/734/trunk/xper/lib/spring-framework/spring-javaconfig.jar
+END
+spring-tx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-tx.jar
+END
+spring-webmvc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-webmvc.jar
+END
+com.springsource.javax.annotation-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/837/trunk/xper/lib/spring-framework/com.springsource.javax.annotation-1.0.0.jar
+END
+spring-webmvc-struts.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-webmvc-struts.jar
+END
+spring-orm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-orm.jar
+END
+spring-context.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-context.jar
+END
+spring-jms.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-jms.jar
+END
+spring-context-support.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-context-support.jar
+END
+spring-test.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/562/trunk/xper/lib/spring-framework/spring-test.jar
+END

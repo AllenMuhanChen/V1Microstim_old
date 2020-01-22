@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/562/trunk/xper/lib/lwjgl/linux
+END
+libopenal.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/562/trunk/xper/lib/lwjgl/linux/libopenal.so
+END
+libjinput-linux64.so
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/562/trunk/xper/lib/lwjgl/linux/libjinput-linux64.so
+END
+libopenal64.so
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/562/trunk/xper/lib/lwjgl/linux/libopenal64.so
+END
+liblwjgl.so
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/562/trunk/xper/lib/lwjgl/linux/liblwjgl.so
+END
+liblwjgl64.so
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/562/trunk/xper/lib/lwjgl/linux/liblwjgl64.so
+END
+libjinput-linux.so
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/275/trunk/xper/lib/lwjgl/linux/libjinput-linux.so
+END

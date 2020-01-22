@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1008/trunk/xper/src/org/xper/time
+END
+DefaultTimeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1008/trunk/xper/src/org/xper/time/DefaultTimeUtil.java
+END
+TimeServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/275/trunk/xper/src/org/xper/time/TimeServer.java
+END
+TimeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/275/trunk/xper/src/org/xper/time/TimeUtil.java
+END
+SocketTimeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/569/trunk/xper/src/org/xper/time/SocketTimeClient.java
+END
+SocketTimeServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/917/trunk/xper/src/org/xper/time/SocketTimeServer.java
+END

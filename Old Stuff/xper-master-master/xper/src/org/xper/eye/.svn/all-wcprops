@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1007/trunk/xper/src/org/xper/eye
+END
+DefaultEyeTargetSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/DefaultEyeTargetSelector.java
+END
+EyeTargetSelectorConcurrentDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1007/trunk/xper/src/org/xper/eye/EyeTargetSelectorConcurrentDriver.java
+END
+RobustEyeTargetSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1006/trunk/xper/src/org/xper/eye/RobustEyeTargetSelector.java
+END
+TargetSelectorResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1007/trunk/xper/src/org/xper/eye/TargetSelectorResult.java
+END
+IscanDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/IscanDevice.java
+END
+DefaultEyeMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/889/trunk/xper/src/org/xper/eye/DefaultEyeMonitor.java
+END
+EyeMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/945/trunk/xper/src/org/xper/eye/EyeMonitor.java
+END
+DefaultEyeSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/DefaultEyeSampler.java
+END
+EyeDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/EyeDevice.java
+END
+EyeSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/659/trunk/xper/src/org/xper/eye/EyeSampler.java
+END
+EyeTargetSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1005/trunk/xper/src/org/xper/eye/EyeTargetSelector.java
+END

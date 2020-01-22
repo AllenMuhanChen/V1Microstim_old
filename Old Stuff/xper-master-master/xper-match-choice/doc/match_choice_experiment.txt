@@ -1,0 +1,32 @@
+The paradigm or sequence of the new training task is following.
+(1) Fixation point is on.
+(2) The first visual stimulus on; fixation point is still on.
+(3) Inter-stimulus-interval; fixation point is still on, the first visual
+stimulus is off.
+(4) The second stimulus on; fixation poin is still on.
+(5) Two target points are on; fixation and the second visual stimulus are off.
+(6) If monkey chooses the target point with the same color of fixation point
+in case of the different stimulus sequence, he can get reward. If he chooses
+the other target point in case of the same stimulus sequence, he can get
+reward.
+
+Detailed Features are following.
+(1) The only two visual stimulus are presented in every trial. The two visual
+stimulus are same in half of trials but they are different in the rest of
+trials. Like the present match stimulus, if I can determine the ratio
+of 'same stimulus sequence trials' and 'different stimulus sequence trials',
+it is much better.
+(2) Two target points are presented after the fixation point and the second
+visual stimulus are off. These two target points have different color ( and
+shape, if possible) but the color of a fixation point is same as that of the
+fixation point. Colors do not change during the experiment but their
+positions change in every trial. They are located at opposit positions
+against the center point. In the final training, the position of the target
+point with the same color of fixation point converges into the center
+position; that is, in final form the saccade point works like a fixation
+point. So it is necessary to manipulate the distance from the center point of
+each target point respectively. The target point with the same color of
+fixation point is associated with the different stimulus sequence, the other
+target point is associated with the same stimulus sequence.
+ In final form, one target point is at center position that was the position
+of the fixation point.

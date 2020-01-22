@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/593/trunk/xper/src/org/xper/mockxper/plugin
+END
+RandomSpikeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/569/trunk/xper/src/org/xper/mockxper/plugin/RandomSpikeGenerator.java
+END
+MatlabSpikeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/593/trunk/xper/src/org/xper/mockxper/plugin/MatlabSpikeGenerator.java
+END
+ManualInputSpikeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/275/trunk/xper/src/org/xper/mockxper/plugin/ManualInputSpikeGenerator.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/593/trunk/xper/src/org/xper/mockxper
+END
+MockMarkerChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/357/trunk/xper/src/org/xper/mockxper/MockMarkerChannel.java
+END
+MockXper.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/578/trunk/xper/src/org/xper/mockxper/MockXper.java
+END
+MockDataChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/357/trunk/xper/src/org/xper/mockxper/MockDataChannel.java
+END
+MockChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/332/trunk/xper/src/org/xper/mockxper/MockChannel.java
+END
+TaskAcqDataBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/569/trunk/xper/src/org/xper/mockxper/TaskAcqDataBuilder.java
+END
+MockSpikeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/275/trunk/xper/src/org/xper/mockxper/MockSpikeGenerator.java
+END
+GenerationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/569/trunk/xper/src/org/xper/mockxper/GenerationManager.java
+END
+MockGeneration.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/357/trunk/xper/src/org/xper/mockxper/MockGeneration.java
+END

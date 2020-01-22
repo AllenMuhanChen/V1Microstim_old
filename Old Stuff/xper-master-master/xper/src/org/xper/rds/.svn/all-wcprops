@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/973/trunk/xper/src/org/xper/rds
+END
+RdsControlServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/929/trunk/xper/src/org/xper/rds/RdsControlServer.java
+END
+RdsFixationPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/933/trunk/xper/src/org/xper/rds/RdsFixationPoint.java
+END
+RdsSquare.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/929/trunk/xper/src/org/xper/rds/RdsSquare.java
+END
+RdsConsolePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/921/trunk/xper/src/org/xper/rds/RdsConsolePlugin.java
+END
+RdsControlClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/919/trunk/xper/src/org/xper/rds/RdsControlClient.java
+END
+RdsTaskScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/942/trunk/xper/src/org/xper/rds/RdsTaskScene.java
+END
+RdsConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/973/trunk/xper/src/org/xper/rds/RdsConfig.java
+END

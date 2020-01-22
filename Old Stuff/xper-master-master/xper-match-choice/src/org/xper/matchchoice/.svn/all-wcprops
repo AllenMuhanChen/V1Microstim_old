@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/958/trunk/xper-match-choice/src/org/xper/matchchoice
+END
+MatchChoiceTrialEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/958/trunk/xper-match-choice/src/org/xper/matchchoice/MatchChoiceTrialEventListener.java
+END
+MatchChoiceTrialExperiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/958/trunk/xper-match-choice/src/org/xper/matchchoice/MatchChoiceTrialExperiment.java
+END
+DefaultMatchChoiceTrialExperimentDrawingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/787/trunk/xper-match-choice/src/org/xper/matchchoice/DefaultMatchChoiceTrialExperimentDrawingController.java
+END
+MatchChoiceTrialDrawingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/782/trunk/xper-match-choice/src/org/xper/matchchoice/MatchChoiceTrialDrawingController.java
+END
+MatchChoiceTrialEventLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/958/trunk/xper-match-choice/src/org/xper/matchchoice/MatchChoiceTrialEventLogger.java
+END
+MatchChoiceExperimentJuiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/787/trunk/xper-match-choice/src/org/xper/matchchoice/MatchChoiceExperimentJuiceController.java
+END
+MatchChoiceExperimentConsoleRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/792/trunk/xper-match-choice/src/org/xper/matchchoice/MatchChoiceExperimentConsoleRenderer.java
+END
+MatchChoiceExperimentMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/958/trunk/xper-match-choice/src/org/xper/matchchoice/MatchChoiceExperimentMessageHandler.java
+END
+AbstractMatchChoiceTaskScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/794/trunk/xper-match-choice/src/org/xper/matchchoice/AbstractMatchChoiceTaskScene.java
+END
+MatchChoiceTrialExperimentMessageDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/958/trunk/xper-match-choice/src/org/xper/matchchoice/MatchChoiceTrialExperimentMessageDispatcher.java
+END
+MatchChoiceTaskScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/782/trunk/xper-match-choice/src/org/xper/matchchoice/MatchChoiceTaskScene.java
+END

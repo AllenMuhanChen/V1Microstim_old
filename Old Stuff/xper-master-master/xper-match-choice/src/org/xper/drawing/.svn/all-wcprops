@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/789/trunk/xper-match-choice/src/org/xper/drawing
+END
+SquareFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/785/trunk/xper-match-choice/src/org/xper/drawing/SquareFactory.java
+END
+MatchChoiceGLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/785/trunk/xper-match-choice/src/org/xper/drawing/MatchChoiceGLUtil.java
+END
+DrawableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/785/trunk/xper-match-choice/src/org/xper/drawing/DrawableFactory.java
+END
+CircleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/789/trunk/xper-match-choice/src/org/xper/drawing/CircleFactory.java
+END

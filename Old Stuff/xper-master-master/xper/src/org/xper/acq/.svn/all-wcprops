@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/971/trunk/xper/src/org/xper/acq
+END
+DefaultAcqDeviceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/580/trunk/xper/src/org/xper/acq/DefaultAcqDeviceController.java
+END
+DefaultDataFilterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/569/trunk/xper/src/org/xper/acq/DefaultDataFilterController.java
+END
+DataFilterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/275/trunk/xper/src/org/xper/acq/DataFilterController.java
+END
+SocketDataAcqClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/971/trunk/xper/src/org/xper/acq/SocketDataAcqClient.java
+END
+DataBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/275/trunk/xper/src/org/xper/acq/DataBuffer.java
+END
+AcqChannelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/569/trunk/xper/src/org/xper/acq/AcqChannelFactory.java
+END
+DatabaseDataBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/569/trunk/xper/src/org/xper/acq/DatabaseDataBuffer.java
+END
+SocketDataAcqServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/580/trunk/xper/src/org/xper/acq/SocketDataAcqServer.java
+END
+AcqDeviceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/275/trunk/xper/src/org/xper/acq/AcqDeviceController.java
+END

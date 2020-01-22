@@ -1,0 +1,52 @@
+(1) Let your program detect 3 behaviors, MAINTAIN FIXATION, SACCADE, and
+FIXATION BREAK, and discriminate 3 results, CORRECT DECISION, WRONG DECISION
+and FIXATION ERROR. In addition, let your program send and record "Behavior
+messages" corresponding to them(= 3 behaviors and 3 results above) in
+Database.
+   Let me explain our task again. I attached two diagrams of task flow for 2
+cases; Same stimulus trial and Different stimulus trial. Please refer to
+them, reading following explanation.
+  One trial has 2-5 stimulus and the subject needs to decide sequential 2
+stimulus are same or not. In Every decision phase(= 2nd or later
+inter-stimulus-intervals and the interval after the final stimulus), the
+display has fixation point and a target for saccade. In the phase, there are
+3 behaviors of the subject; 1. MAINTAIN FIXATION, 2. SACCADE (=eye left from
+fixation point and reach to a target point by a time and stay there for a
+while) and 3. FIXATION BREAK(= eyes of subject leave from fixation point but
+does not reach to the target by a time). ( I hope the definition of SACCADE 
+and FIXATION BREAK above imply how to discriminate them in your program. )
+And we have 3 results in 2 cases,
+ When the sequential two stimulus are same,
+ (a) SACCADE means CORRECT DECISION.
+ (b) MAINTAIN FIXATION means WRONG DECISION
+ (c) FIXATION BREAK means FIXATION ERROR.
+ When the sequential two stimulus are different,
+ (a) SACCADE means WRONG DECISION.
+ (b) MAINTAIN FIXATION means CORRECT DECISION
+ (c) FIXATION BREAK means FIXATION ERROR.
+ And according to the result, task program continues like following,
+ In case of CORRECT DECISION,
+ When the decision is final one(= after the final stimulus), give reward to
+subject, otherwise give the next stimulus.
+In case of WRONG DECISION,
+ Trial finishes without reward. We don't want to repeat the trial because we
+got a decision of the subject.
+In case of FIXATION ERROR,
+ Stop the trial without reward and put the trial to the tail of task list to
+run the trial again.
+ We wish your program to discriminate 3 behaviors and send and record message
+representing the behavior in every decision phase.
+  In addition, we wish your program send and record the final decision result
+as the trial result.
+
+(Optional)
+Although eye windows for a fixation point and a target point don't overlap in
+our task, if you care about a overlap of them and the subject is watching
+them, please give a priority to the target window; that is, let your program
+decide that the subject is watching the target not fixation point. 
+
+(2) Related to my previous inquiry with the number (4),
+it is important that the final fixation period following the last stimulus
+be exactly the same duration as the interstimulus intervals.  If
+ThredUtil.sleep which is running just after the final stimulus makes this
+final period longer, it needs to be removed.

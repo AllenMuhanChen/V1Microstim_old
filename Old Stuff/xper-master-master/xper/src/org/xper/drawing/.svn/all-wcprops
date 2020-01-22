@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1000/trunk/xper/src/org/xper/drawing
+END
+Window.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/275/trunk/xper/src/org/xper/drawing/Window.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1000/trunk/xper/src/org/xper/drawing/Context.java
+END
+Drawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/659/trunk/xper/src/org/xper/drawing/Drawable.java
+END
+Coordinates2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/659/trunk/xper/src/org/xper/drawing/Coordinates2D.java
+END
+TaskScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/853/trunk/xper/src/org/xper/drawing/TaskScene.java
+END
+GLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/989/trunk/xper/src/org/xper/drawing/GLUtil.java
+END
+ScreenMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/979/trunk/xper/src/org/xper/drawing/ScreenMarker.java
+END
+RGBColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/659/trunk/xper/src/org/xper/drawing/RGBColor.java
+END
+AbstractTaskScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/995/trunk/xper/src/org/xper/drawing/AbstractTaskScene.java
+END
+BlankTaskScene.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/837/trunk/xper/src/org/xper/drawing/BlankTaskScene.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/752/trunk/xper/lib/lwjgl
+END
+lwjgl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/562/trunk/xper/lib/lwjgl/lwjgl.jar
+END
+lwjgl-debug.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/752/trunk/xper/lib/lwjgl/lwjgl-debug.jar
+END
+lwjgl_util_applet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/562/trunk/xper/lib/lwjgl/lwjgl_util_applet.jar
+END
+lwjgl_util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/562/trunk/xper/lib/lwjgl/lwjgl_util.jar
+END
+lwjgl_test.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/562/trunk/xper/lib/lwjgl/lwjgl_test.jar
+END
+jinput.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/275/trunk/xper/lib/lwjgl/jinput.jar
+END

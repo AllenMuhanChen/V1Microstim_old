@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/569/trunk/xper/src/org/xper/experiment/mock
+END
+RandomTaskDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/569/trunk/xper/src/org/xper/experiment/mock/RandomTaskDataSource.java
+END
+NullTaskDoneCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/332/trunk/xper/src/org/xper/experiment/mock/NullTaskDoneCache.java
+END
+NullTaskDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/332/trunk/xper/src/org/xper/experiment/mock/NullTaskDataSource.java
+END

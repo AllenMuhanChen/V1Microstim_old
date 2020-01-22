@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/819/trunk/xper/app/org/xper/app/acq
+END
+TimeServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/638/trunk/xper/app/org/xper/app/acq/TimeServer.java
+END
+AcqClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/638/trunk/xper/app/org/xper/app/acq/AcqClient.java
+END
+TimeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/819/trunk/xper/app/org/xper/app/acq/TimeClient.java
+END
+AcqServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/638/trunk/xper/app/org/xper/app/acq/AcqServer.java
+END

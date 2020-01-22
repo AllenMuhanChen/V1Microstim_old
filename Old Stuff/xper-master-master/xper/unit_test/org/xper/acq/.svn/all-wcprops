@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/819/trunk/xper/unit_test/org/xper/acq
+END
+NiAnalogStreamingDeviceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/819/trunk/xper/unit_test/org/xper/acq/NiAnalogStreamingDeviceTest.java
+END
+AcqDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/562/trunk/xper/unit_test/org/xper/acq/AcqDataTest.java
+END
+NiAnalogSamplingDeviceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/819/trunk/xper/unit_test/org/xper/acq/NiAnalogSamplingDeviceTest.java
+END
+ComediJuiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/819/trunk/xper/unit_test/org/xper/acq/ComediJuiceTest.java
+END
+ComediAnalogSamplingDeviceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/819/trunk/xper/unit_test/org/xper/acq/ComediAnalogSamplingDeviceTest.java
+END
+NiJuiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/819/trunk/xper/unit_test/org/xper/acq/NiJuiceTest.java
+END
+NiDigitalPortJuiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/570/trunk/xper/unit_test/org/xper/acq/NiDigitalPortJuiceTest.java
+END
+ComediDigitalPortJuiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/570/trunk/xper/unit_test/org/xper/acq/ComediDigitalPortJuiceTest.java
+END
+ComediAnalogStreamingDeviceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/819/trunk/xper/unit_test/org/xper/acq/ComediAnalogStreamingDeviceTest.java
+END

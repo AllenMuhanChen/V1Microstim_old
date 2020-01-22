@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/566/trunk/xper/lib/lwjgl/macosx
+END
+libjinput-osx.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/562/trunk/xper/lib/lwjgl/macosx/libjinput-osx.jnilib
+END
+openal.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/566/trunk/xper/lib/lwjgl/macosx/openal.dylib
+END
+liblwjgl.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/562/trunk/xper/lib/lwjgl/macosx/liblwjgl.jnilib
+END

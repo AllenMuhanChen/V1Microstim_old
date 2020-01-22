@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/593/trunk/xper/src/org/xper/acq/comedi
+END
+ComediAnalogStreamingDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/593/trunk/xper/src/org/xper/acq/comedi/ComediAnalogStreamingDevice.java
+END
+ComediAnalogSWOutDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/593/trunk/xper/src/org/xper/acq/comedi/ComediAnalogSWOutDevice.java
+END
+ComediAnalogSamplingDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/593/trunk/xper/src/org/xper/acq/comedi/ComediAnalogSamplingDevice.java
+END
+ComediDigitalPortOutDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/593/trunk/xper/src/org/xper/acq/comedi/ComediDigitalPortOutDevice.java
+END

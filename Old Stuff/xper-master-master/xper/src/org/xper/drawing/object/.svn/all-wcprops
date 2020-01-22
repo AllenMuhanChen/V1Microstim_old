@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/989/trunk/xper/src/org/xper/drawing/object
+END
+Circle.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/659/trunk/xper/src/org/xper/drawing/object/Circle.java
+END
+BlankScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/664/trunk/xper/src/org/xper/drawing/object/BlankScreen.java
+END
+FixationPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/921/trunk/xper/src/org/xper/drawing/object/FixationPoint.java
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/989/trunk/xper/src/org/xper/drawing/object/Rectangle.java
+END
+Square.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/791/trunk/xper/src/org/xper/drawing/object/Square.java
+END
+AlternatingScreenMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/979/trunk/xper/src/org/xper/drawing/object/AlternatingScreenMarker.java
+END
+LeftRightOverlapScreenMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/979/trunk/xper/src/org/xper/drawing/object/LeftRightOverlapScreenMarker.java
+END
+MonkeyWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/827/trunk/xper/src/org/xper/drawing/object/MonkeyWindow.java
+END
