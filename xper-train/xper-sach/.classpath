@@ -40,7 +40,6 @@
 	<classpathentry kind="lib" path="/xper/lib/swingx-0.9.3.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/xpp3_min-1.1.3.4.O.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/xstream-1.2.1.jar" sourcepath="/Users/sach/.m2/repository/com/thoughtworks/xstream/xstream/1.2.1/xstream-1.2.1-sources.jar"/>
-	<classpathentry kind="src" path="images"/>
 	<classpathentry kind="lib" path="/xper/lib/jmathplot.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/lwjgl_2.9.0/jinput.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/lwjgl_2.9.0/lwjgl_test.jar"/>
