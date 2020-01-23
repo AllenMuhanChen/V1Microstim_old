@@ -9,6 +9,21 @@ public class StimSpecEntry {
 	 * Encoded as XML string.
 	 */
 	String spec;
+	
+	public StimSpecEntry(){
+		super();
+	}
+	public StimSpecEntry(String[] dbInput,String type){
+		super();
+		
+		String stimIdS = dbInput[0];
+		String specS;
+		if (type.toLowerCase().equals("spec"))	specS = dbInput[1];
+		else 									specS = dbInput[2];
+		setStimId(Long.parseLong(stimIdS));
+		setSpec(specS);
+	}
+	
 	public String getSpec() {
 		return spec;
 	}
