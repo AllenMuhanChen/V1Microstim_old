@@ -16,16 +16,16 @@ public class MonkeyWindow implements Window {
 	@Dependency
 	boolean fullscreen = true;
 	@Dependency
-	PixelFormat pixelFormat = null; // new PixelFormat(0, 8, 1, 4);
-
+	PixelFormat pixelFormat = null;
+	
 	@Dependency
 	double canvasScaleFactor = DEFAULT_CANVAS_SCALE_FACTOR;
 
 	int screenWidth;
 	int screenHeight;
-
-	static final double DEFAULT_CANVAS_SCALE_FACTOR = 2;
-
+	
+	static final double DEFAULT_CANVAS_SCALE_FACTOR = 2.5;
+	
 	public MonkeyWindow() {
 		DisplayMode mode = Display.getDisplayMode();
 		screenWidth = mode.getWidth();
@@ -35,15 +35,15 @@ public class MonkeyWindow implements Window {
 		try {
 			System.setProperty("org.lwjgl.opengl.Display.noinput", "true");
 			//System.setProperty("LWJGL_DISABLE_NETWM", "true");
-
+			
 			if (fullscreen) {
 				Display.setFullscreen(true);
 			} else {
 				// for testing, use half screen width and half screen height as
 				// width and height of monkey window
-				int height = (int)(screenHeight / canvasScaleFactor);
-				int width = height * 8 / 3;
-				Display.setDisplayMode(new DisplayMode(width,height));
+				
+				Display.setDisplayMode(new DisplayMode((int)(screenWidth / canvasScaleFactor),
+						(int)(screenHeight / canvasScaleFactor)));
 				Display.setTitle("Monkey Monitor");
 			}
 			if (pixelFormat != null) {
@@ -51,9 +51,9 @@ public class MonkeyWindow implements Window {
 			} else {
 				Display.create();
 			}
-
+			
 			Display.setVSyncEnabled(true);
-
+			
 		} catch (Exception e) {
 			throw new XGLException(e);
 		}
@@ -66,15 +66,15 @@ public class MonkeyWindow implements Window {
 	public int getHeight() {
 		return Display.getDisplayMode().getHeight();
 	}
-
+	
 	public int getScreenHeight() {
 		return screenHeight;
 	}
-
+	
 	public int getScreenWidth() {
 		return screenWidth;
 	}
-
+	
 	public Coordinates2D getScreenDimension() {
 		return new Coordinates2D(getScreenWidth(), getScreenHeight());
 	}
@@ -117,5 +117,5 @@ public class MonkeyWindow implements Window {
 	public void setCanvasScaleFactor(double canvasScaleFactor) {
 		this.canvasScaleFactor = canvasScaleFactor;
 	}
-
+	
 }

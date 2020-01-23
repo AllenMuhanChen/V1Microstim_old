@@ -8,7 +8,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="unit_test"/>
 	<classpathentry kind="src" path="app"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/xper-native"/>
 	<classpathentry kind="lib" path="lib/lwjgl/jinput.jar"/>
 	<classpathentry kind="lib" path="lib/lwjgl/lwjgl_test.jar"/>
 	<classpathentry kind="lib" path="lib/lwjgl/lwjgl_util_applet.jar"/>
@@ -41,8 +40,6 @@
 	<classpathentry kind="lib" path="/xper-example/class"/>
 	<classpathentry kind="lib" path="lib/jaxen-full.jar"/>
 	<classpathentry kind="lib" path="lib/saxpath.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/xper-allen"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/xper-example"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/xper-sach"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/xper-native"/>
 	<classpathentry kind="output" path="class"/>
 </classpath>

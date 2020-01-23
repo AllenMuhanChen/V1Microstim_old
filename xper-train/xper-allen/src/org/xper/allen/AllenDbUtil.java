@@ -1,59 +1,45 @@
 package org.xper.allen;
 
-import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
-import java.io.IOException;
-import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
-import java.util.TreeMap;
-
 import javax.sql.DataSource;
-
-import org.springframework.dao.DataAccessException;
-import org.springframework.dao.IncorrectResultSizeDataAccessException;
-import org.springframework.jdbc.core.BatchPreparedStatementSetter;
 import org.springframework.jdbc.core.JdbcTemplate;
-import org.springframework.jdbc.core.ResultSetExtractor;
-import org.springframework.jdbc.core.RowCallbackHandler;
 import org.springframework.jdbc.core.simple.ParameterizedRowMapper;
 import org.springframework.jdbc.core.simple.SimpleJdbcTemplate;
-import org.xper.Dependency;
-import org.xper.db.vo.AcqDataEntry;
-import org.xper.db.vo.AcqSessionEntry;
-import org.xper.db.vo.BehMsgEntry;
-import org.xper.db.vo.ExpLogEntry;
-import org.xper.db.vo.GenerationInfo;
-import org.xper.db.vo.GenerationTaskDoneList;
-import org.xper.db.vo.GenerationTaskToDoList;
-import org.xper.db.vo.InternalStateVariable;
-import org.xper.db.vo.RFInfoEntry;
-import org.xper.db.vo.RFStimSpecEntry;
-import org.xper.db.vo.StimSpecEntry;
-import org.xper.db.vo.SystemVariable;
-import org.xper.db.vo.TaskDoneEntry;
-import org.xper.db.vo.TaskToDoEntry;
-import org.xper.db.vo.XfmSpecEntry;
-import org.xper.exception.DbException;
-import org.xper.exception.InvalidAcqDataException;
-import org.xper.exception.VariableNotFoundException;
-import org.xper.experiment.ExperimentTask;
-
-import com.mindprod.ledatastream.LEDataInputStream;
-import com.mindprod.ledatastream.LEDataOutputStream;
 //AC
-import org.xper.rfplot.EStimSpec;
+import org.xper.allen.EStimSpec;
 import org.xper.util.DbUtil;
-import org.xper.rfplot.BlockSpec;
+import org.xper.Dependency;
+import org.xper.allen.BlockSpec;
 
 //AC
 public class AllenDbUtil extends DbUtil {
 	
+	@Dependency
+	protected
+	DataSource dataSource;
+
+	public AllenDbUtil() {	
+	}
+	
+	public AllenDbUtil(DataSource dataSource) {
+		super();
+		this.dataSource = dataSource;
+	}
+
+	/**
+	 * Before DbUtil can be used. DataSource must be set.
+	 * 
+	 * See createXperDbUtil in MATLAB directory for how to create data source.
+	 * 
+	 * @param dataSource
+	 */
+	public void setDataSource(DataSource dataSource) {
+		this.dataSource = dataSource;
+	}
+	
+	//AC
+	//=====================EStimSpec========================================
 	public void writeEStimSpec(EStimSpec e) {
 		JdbcTemplate jt = new JdbcTemplate(dataSource);
 		jt.update(
@@ -65,8 +51,7 @@ public class AllenDbUtil extends DbUtil {
 						e.get_maintain_amp_settle_during_pulse_train(), e.get_post_stim_charge_recovery_on(),
 						e.get_post_stim_charge_recovery_off() });
 	}
-
-	// AC
+	
 	public EStimSpec readEStimSpec(long estimId) {
 		SimpleJdbcTemplate jt = new SimpleJdbcTemplate(dataSource);
 		return jt.queryForObject(
@@ -97,7 +82,7 @@ public class AllenDbUtil extends DbUtil {
 					}
 				}, estimId);
 	}
-
+//========================BlockSpec=============================================
 	public BlockSpec readBlockSpec(long blockId) {
 		SimpleJdbcTemplate jt = new SimpleJdbcTemplate(dataSource);
 		return jt.queryForObject(
@@ -115,5 +100,25 @@ public class AllenDbUtil extends DbUtil {
 					}
 				}, blockId);
 	}
-	//
+	
+//========================StimObjId===============================================
+	public void writeStimObjData(long id, String spec, String data) {
+		JdbcTemplate jt = new JdbcTemplate(dataSource);
+		jt.update("insert into StimObjData (id, spec, data) values (?, ?, ?)", 
+				new Object[] { id, spec, data });
+	}
+	public StimObjData readStimObjData(long StimObjId) {
+		SimpleJdbcTemplate jt = new SimpleJdbcTemplate(dataSource);
+		return jt.queryForObject(
+				" select id, spec, data from StimObjData where id = ? ",
+				new ParameterizedRowMapper<StimObjData>() {
+					public StimObjData mapRow(ResultSet rs, int rowNum) throws SQLException {
+						StimObjData so = new StimObjData();
+						so.set_id(rs.getLong("id"));
+						so.set_spec(rs.getString("spec"));
+						so.set_data(rs.getString("data"));
+						return so;
+					}
+				}, StimObjId);
+	}
 }

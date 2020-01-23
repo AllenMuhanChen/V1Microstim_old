@@ -3,7 +3,7 @@ package org.xper.allen;
 import org.xper.allen.EStimSpec;
 
 public class EStimSpecGenerator {
-	public static EStimSpec generate () {
+	public static EStimSpec generate() {
 		EStimSpec e = new EStimSpec();
 		e.set_id(0);
 		e.set_chan(1);

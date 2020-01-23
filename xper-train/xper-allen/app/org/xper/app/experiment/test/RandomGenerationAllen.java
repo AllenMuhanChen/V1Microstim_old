@@ -1,21 +1,25 @@
 package org.xper.app.experiment.test;
-
-import org.xper.Dependency;
+//original imports
+import org.xper.Dependency;    
 import org.xper.exception.VariableNotFoundException;
 import org.xper.experiment.StimSpecGenerator;
 import org.xper.time.TimeUtil;
+//AC imports
 import org.xper.util.DbUtil;
+import java.util.Arrays;
+import org.xper.allen.*;
 
-public class RandomGeneration {
+public class RandomGenerationAllen {
 	@Dependency
 	DbUtil dbUtil;
+
 	@Dependency
 	TimeUtil globalTimeUtil;
 	@Dependency
 	StimSpecGenerator generator;
+
 	@Dependency
-	public
-	int taskCount;
+	protected int taskCount;
 
 	public int getTaskCount() {
 		return taskCount;
@@ -33,14 +37,46 @@ public class RandomGeneration {
 		} catch (VariableNotFoundException e) {
 			dbUtil.writeReadyGenerationInfo(genId, 0);
 		}
+		/*
+		//AC: Block Logic
+		long blockId = 1;
+		BlockSpec blockspec = ((AllenDbUtil) dbUtil).readBlockSpec(blockId);
+		Block block = new Block();
+		block.generateTrialList(taskCount); 
+		*/
+		
+		//
 		for (int i = 0; i < taskCount; i++) {
 			if (i % 10 == 0) {
 				System.out.print(".");
 			}
 			String spec = generator.generateStimSpec();
+			//AC
+			/*
+			long stimId;
+			int estimId =1;//STILL NEED TO ADD LOGIC FOR STIM PARAMETERS
 			long taskId = globalTimeUtil.currentTimeMicros();
-			dbUtil.writeStimSpec(taskId, spec);
-			dbUtil.writeTaskToDo(taskId, taskId, -1, genId);
+			if (blockref[i]=='c'){
+				stimId=0;
+				estimId=0;
+			}else if(blockref[i]=='v') {
+				stimId=taskId;
+				estimId=0;
+			}else if(blockref[i]=='e') {
+				stimId=0;
+				estimId=1;
+			}else {
+				stimId=taskId;
+				estimId=1;
+			}
+				*/															//added estimId
+			long taskId = globalTimeUtil.currentTimeMicros();
+			long stimId = taskId; 
+			dbUtil.writeStimSpec(taskId, spec);								
+			dbUtil.writeTaskToDo(taskId, stimId, -1, genId);		//Added estimId to db
+			EStimSpec e = EStimSpecGenerator.generate();					//Generate EStimSpec
+			((AllenDbUtil) dbUtil).writeEStimSpec(e);										//Write EStimspec class to db
+			//
 		}
 		dbUtil.updateReadyGenerationInfo(genId, taskCount);
 		System.out.println("done.");
@@ -55,7 +91,6 @@ public class RandomGeneration {
 	}
 
 	
-
 	public TimeUtil getGlobalTimeUtil() {
 		return globalTimeUtil;
 	}
@@ -70,5 +105,9 @@ public class RandomGeneration {
 
 	public void setGenerator(StimSpecGenerator generator) {
 		this.generator = generator;
+	}
+	public void testBlockClass(BlockSpec blockspec) {
+		Block block = new Block();
+		System.out.print(block.generateTrialList(blockspec));
 	}
 }

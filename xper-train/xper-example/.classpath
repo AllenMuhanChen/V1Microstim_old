@@ -9,11 +9,10 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="/xper/lib/xstream-1.2.1.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/junit-3.8.1.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/xper"/>
 	<classpathentry kind="lib" path="/xper/lib/spring/spring-beans.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/spring/spring-context.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/spring/spring-core.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/spring/spring-javaconfig.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/xper-allen"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/xper"/>
 	<classpathentry kind="output" path="class"/>
 </classpath>
