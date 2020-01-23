@@ -1,0 +1,24 @@
+notes-2014_aug_22
+
+TODO:
+
+1. fix GA stimulus generation:
+	X FIXED-- limit max and min global sizes (might need to do more than this?) 
+	X-- morphs often lead to bad looping, make sure looping checks are in place
+	?-- general morph balancing: allow for multiple morphs applied?? -- might still need tweaking
+	X FIXED-- caught one bad morph error: endless looping on a 'remove limb'
+	
+2. GA analysis
+	-- want visual representation of stimulus avg firing rates and stdevs
+	-- rank stimuli according to FR
+	
+3. Bah_quick analysis
+	X-- display FRs and stdevs of categorical stimuli
+	
+	
+4. Expt notes
+	-- finish notes gui to add exp't info to ExpLog
+	-- in the meantime, enter manually???
+	
+	
+	 
