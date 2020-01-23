@@ -14,5 +14,6 @@
 	<classpathentry kind="lib" path="/xper/lib/spring/spring-context.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/spring/spring-core.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/spring/spring-javaconfig.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/xper-allen"/>
 	<classpathentry kind="output" path="class"/>
 </classpath>

@@ -1,6 +1,6 @@
 
-package org.xper.example.classic;
-import org.xper.rfplot.EStimSpec;
+package org.xper.allen;
+import org.xper.allen.EStimSpec;
 
 public class EStimSpecGenerator {
 	public static EStimSpec generate () {
