@@ -1,6 +1,6 @@
 package org.xper.app.experiment.test;
 
-import org.xper.Dependency; 
+import org.xper.Dependency;  
 import org.xper.example.classic.EStimSpecGenerator;
 import org.xper.exception.VariableNotFoundException;
 import org.xper.experiment.StimSpecGenerator;
@@ -9,10 +9,12 @@ import org.xper.rfplot.EStimSpec;
 import org.xper.time.TimeUtil;
 import org.xper.util.DbUtil;
 import java.util.Arrays;
+import org.xper.allen.AllenDbUtil;
 
 public class RandomGeneration {
 	@Dependency
 	DbUtil dbUtil;
+
 	@Dependency
 	TimeUtil globalTimeUtil;
 	@Dependency
@@ -39,7 +41,7 @@ public class RandomGeneration {
 		}
 		//AC: Block Logic
 		long blockId = 1;
-		BlockSpec block = dbUtil.readBlockSpec(blockId);
+		BlockSpec block = ((AllenDbUtil) dbUtil).readBlockSpec(blockId);
 		//blockRef: c-catch trial, v-vstim only, e-estim only, b-both
 		char blockref[] = new char[taskCount];
 		Arrays.fill(blockref, 0, block.get_num_catches()-1, 'c');
@@ -75,9 +77,9 @@ public class RandomGeneration {
 			}
 																			//added estimId
 			dbUtil.writeStimSpec(taskId, spec);								
-			dbUtil.writeTaskToDo(taskId, stimId, estimId, -1, genId);		//Added estimId to db
+			dbUtil.writeTaskToDo(taskId, estimId, -1, genId);		//Added estimId to db
 			EStimSpec e = EStimSpecGenerator.generate();					//Generate EStimSpec
-			dbUtil.writeEStimSpec(e);										//Write EStimspec class to db
+			((AllenDbUtil) dbUtil).writeEStimSpec(e);										//Write EStimspec class to db
 			//
 		}
 		dbUtil.updateReadyGenerationInfo(genId, taskCount);

@@ -41,5 +41,8 @@
 	<classpathentry kind="lib" path="/xper-example/class"/>
 	<classpathentry kind="lib" path="lib/jaxen-full.jar"/>
 	<classpathentry kind="lib" path="lib/saxpath.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/xper-allen"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/xper-example"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/xper-sach"/>
 	<classpathentry kind="output" path="class"/>
 </classpath>
