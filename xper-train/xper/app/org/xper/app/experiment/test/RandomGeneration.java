@@ -1,15 +1,16 @@
 package org.xper.app.experiment.test;
-
+//original imports
 import org.xper.Dependency;  
 import org.xper.example.classic.EStimSpecGenerator;
 import org.xper.exception.VariableNotFoundException;
 import org.xper.experiment.StimSpecGenerator;
-import org.xper.rfplot.BlockSpec;
-import org.xper.rfplot.EStimSpec;
 import org.xper.time.TimeUtil;
+//AC imports
 import org.xper.util.DbUtil;
 import java.util.Arrays;
 import org.xper.allen.AllenDbUtil;
+import org.xper.allen.BlockSpec;
+import org.xper.allen.EStimSpec;
 
 public class RandomGeneration {
 	@Dependency
