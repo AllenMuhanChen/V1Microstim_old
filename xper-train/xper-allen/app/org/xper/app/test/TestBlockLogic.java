@@ -3,9 +3,6 @@ package org.xper.app.test;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import org.xper.allen.*;
 
-
-
-
 public class TestBlockLogic
 {
 	static char trialList[];

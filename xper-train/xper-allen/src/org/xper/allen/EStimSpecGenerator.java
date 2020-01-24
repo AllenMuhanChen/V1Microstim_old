@@ -5,7 +5,6 @@ import org.xper.allen.EStimSpec;
 public class EStimSpecGenerator {
 	public static EStimSpec generate() {
 		EStimSpec e = new EStimSpec();
-		e.set_id(0);
 		e.set_chan(1);
 		e.set_trig_src("");
 		e.set_num_pulses(1);

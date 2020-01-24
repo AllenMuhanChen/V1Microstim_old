@@ -8,6 +8,7 @@ import org.springframework.jdbc.core.simple.ParameterizedRowMapper;
 import org.springframework.jdbc.core.simple.SimpleJdbcTemplate;
 //AC
 import org.xper.allen.EStimSpec;
+import org.xper.db.vo.EStimSpecEntry;
 import org.xper.util.DbUtil;
 import org.xper.Dependency;
 import org.xper.allen.BlockSpec;
@@ -40,11 +41,11 @@ public class AllenDbUtil extends DbUtil {
 	
 	//AC
 	//=====================EStimSpec========================================
-	public void writeEStimSpec(EStimSpec e) {
+	public void writeEStimSpec(long id, EStimSpec e) {
 		JdbcTemplate jt = new JdbcTemplate(dataSource);
 		jt.update(
 				"insert into EStimSpec (id, chan, trig_src, num_pulses, pulse_train_period, post_stim_refractory_period, stim_shape, stim_polarity, d1, d2, dp, a1, a2, pre_stim_amp_settle, post_stim_amp_settle, maintain_amp_settle_during_pulse_train, post_stim_charge_recovery_on, post_stim_charge_recovery_off) values (?, ?, ?, ? ,? ,? ,? ,? ,? ,? ,?, ?, ?, ?, ?, ?, ?, ?)",
-				new Object[] { e.get_id(), e.get_chan(), e.get_trig_src(), e.get_num_pulses(),
+				new Object[] { id, e.get_chan(), e.get_trig_src(), e.get_num_pulses(),
 						e.get_pulse_train_period(), e.get_post_stim_refractory_period(), e.get_stim_shape(),
 						e.get_stim_polarity(), e.get_d1(), e.get_d2(), e.get_dp(), e.get_a1(), e.get_a2(),
 						e.get_pre_stim_amp_settle(), e.get_post_stim_amp_settle(),
@@ -52,13 +53,13 @@ public class AllenDbUtil extends DbUtil {
 						e.get_post_stim_charge_recovery_off() });
 	}
 	
-	public EStimSpec readEStimSpec(long estimId) {
+	public EStimSpecEntry readEStimSpec(long estimId) {
 		SimpleJdbcTemplate jt = new SimpleJdbcTemplate(dataSource);
 		return jt.queryForObject(
 				" select id, chan, trig_src, num_pulses, pulse_train_period, post_stim_refractory_period, stim_shape, stim_polarity, d1, d2, dp, a1, a2, pre_stimp_amp_settle, post_stim_amp_settle, maintain_amp_settle_during_pulse_train, post_stim_charge_recovery_on, post_stim_charge_recovery_off from EStimSpec where id = ? ",
-				new ParameterizedRowMapper<EStimSpec>() {
-					public EStimSpec mapRow(ResultSet rs, int rowNum) throws SQLException {
-						EStimSpec e = new EStimSpec();
+				new ParameterizedRowMapper<EStimSpecEntry>() {
+					public EStimSpecEntry mapRow(ResultSet rs, int rowNum) throws SQLException {
+						EStimSpecEntry e = new EStimSpecEntry();
 						e.set_id(rs.getLong("id"));
 						e.set_chan(rs.getInt("chan"));
 						e.set_trig_src(rs.getString("trig_src"));

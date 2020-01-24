@@ -2,7 +2,7 @@ package org.xper.allen;
 
 import java.util.Arrays;
 
-public class Block{
+public class Block {
 	//Variable Declarations
 	int taskCount;
 	BlockSpec block;
