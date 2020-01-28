@@ -3,10 +3,11 @@ package org.xper.app.experiment.test;
 import org.springframework.config.java.context.JavaConfigApplicationContext;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import org.xper.Dependency;
-import org.xper.allen.AllenDbUtil;
+import org.xper.allen.config.AllenDbUtil;
 import org.xper.util.FileUtil;
 import org.xper.time.DefaultTimeUtil;
 import org.xper.time.TimeUtil;
+
 
 
 
@@ -25,8 +26,9 @@ public class RandGenTest {
 		gen.setDbUtil(dbutil);
 		
 		DefaultTimeUtil globalTimeUtil = new DefaultTimeUtil();
+		System.out.println(globalTimeUtil.currentTimeMicros());
 		gen.setGlobalTimeUtil(globalTimeUtil);
 		
-		gen.generate();
+		//gen.generate();
 	}
 }

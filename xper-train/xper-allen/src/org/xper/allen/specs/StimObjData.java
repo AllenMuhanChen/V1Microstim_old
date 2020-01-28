@@ -1,4 +1,4 @@
-package org.xper.allen;
+package org.xper.allen.specs;
 
 public class StimObjData {
 	long id;

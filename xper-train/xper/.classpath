@@ -3,7 +3,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry excluding="org/xper/acq/filterOld/|org.xper.allen/" kind="src" path="src">
 		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/ecpc32/Dropbox/Documents/Hopkins/NHP2PV4/projectXper/xper_train/dist/native/macos"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="xper-native"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="unit_test"/>

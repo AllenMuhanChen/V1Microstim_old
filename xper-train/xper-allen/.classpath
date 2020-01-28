@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="app"/>
+	<classpathentry kind="src" path="app">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/allenchen/GitHub/V1Microstim/xper-train/xper-native/macos"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="/xper/lib/c3p0-0.9.0.2.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/cglib-nodep-2.1_3.jar"/>

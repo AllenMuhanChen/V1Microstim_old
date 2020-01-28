@@ -1,4 +1,4 @@
-package org.xper.allen;
+package org.xper.allen.specs;
 
 import com.thoughtworks.xstream.XStream;
 

@@ -2,6 +2,8 @@ package org.xper.allen;
 
 import java.util.Arrays;
 
+import org.xper.allen.specs.BlockSpec;
+
 public class Block {
 	//Variable Declarations
 	int taskCount;

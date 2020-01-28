@@ -1,5 +1,5 @@
 //AC
-package org.xper.allen;
+package org.xper.allen.specs;
 
 public class EStimSpec {
 	//long id;

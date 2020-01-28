@@ -1,9 +1,9 @@
 //AC
 package org.xper.db.vo;
 
-import org.xper.allen.StimSpec;
+import org.xper.allen.specs.StimSpec;
 
-public class EStimSpecEntry extends StimSpec{
+public class EStimSpecEntry{
 	long id;
 	int chan;
 	String trig_src;

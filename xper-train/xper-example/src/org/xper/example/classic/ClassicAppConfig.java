@@ -1,6 +1,6 @@
 package org.xper.example.classic;
 
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Autowired; 
 import org.springframework.config.java.annotation.Bean;
 import org.springframework.config.java.annotation.Configuration;
 import org.springframework.config.java.annotation.Import;
@@ -21,9 +21,9 @@ import org.xper.drawing.renderer.PerspectiveStereoRenderer;
 @AnnotationDrivenConfig
 @Import(ClassicConfig.class)
 public class ClassicAppConfig {
-	@Autowired ClassicConfig classicConfig;
+	@Autowired ClassicConfig classicConfig; //AC: changed to protected
 	@Autowired BaseConfig baseConfig;
-	@Autowired AcqConfig acqConfig;
+	@Autowired protected AcqConfig acqConfig;
 	
 	@Bean
 	public AbstractRenderer experimentGLRenderer () {

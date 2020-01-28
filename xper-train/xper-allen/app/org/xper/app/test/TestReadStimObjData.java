@@ -2,6 +2,8 @@ package org.xper.app.test;
 
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import org.xper.allen.*;
+import org.xper.allen.config.AllenDbUtil;
+import org.xper.allen.specs.StimObjData;
 
 
 

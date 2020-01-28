@@ -1,6 +1,6 @@
 
 package org.xper.allen;
-import org.xper.allen.EStimSpec;
+import org.xper.allen.specs.EStimSpec;
 
 public class EStimSpecGenerator {
 	public static EStimSpec generate() {

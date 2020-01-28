@@ -1,4 +1,4 @@
-package org.xper.allen;
+package org.xper.allen.config;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -6,12 +6,12 @@ import javax.sql.DataSource;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.simple.ParameterizedRowMapper;
 import org.springframework.jdbc.core.simple.SimpleJdbcTemplate;
-//AC
-import org.xper.allen.EStimSpec;
+import org.xper.allen.specs.BlockSpec;
+import org.xper.allen.specs.EStimSpec;
+import org.xper.allen.specs.StimObjData;
 import org.xper.db.vo.EStimSpecEntry;
 import org.xper.util.DbUtil;
 import org.xper.Dependency;
-import org.xper.allen.BlockSpec;
 
 //AC
 public class AllenDbUtil extends DbUtil {
