@@ -1,4 +1,4 @@
-package org.xper.app.test;
+package org.xper.app.experiment.test;
 
 import org.springframework.config.java.context.JavaConfigApplicationContext;
 import org.xper.app.experiment.test.TestGeneration;

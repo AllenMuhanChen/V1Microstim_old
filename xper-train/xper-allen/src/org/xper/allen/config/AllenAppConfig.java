@@ -36,7 +36,7 @@ import org.springframework.config.java.annotation.Import;
 import org.springframework.config.java.annotation.Lazy;
 import org.springframework.config.java.annotation.valuesource.SystemPropertiesValueSource;
 import org.springframework.config.java.plugin.context.AnnotationDrivenConfig;
-import org.xper.app.experiment.test.RandomGeneration;
+import org.xper.app.experiment.test.TestGeneration;
 import org.xper.app.experiment.test.TestGeneration;
 import org.xper.config.AcqConfig;
 import org.xper.config.BaseConfig;
@@ -92,8 +92,8 @@ public class AllenAppConfig {
 	}
 	
 	@Bean
-	public RandomGeneration randomGen () {
-		RandomGeneration gen = new RandomGeneration();
+	public TestGeneration randomGen () {
+		TestGeneration gen = new TestGeneration();
 		gen.setDbUtil(allenConfig.dbUtil());
 		gen.setGlobalTimeUtil(acqConfig.timeClient());
 		gen.setTaskCount(100);
