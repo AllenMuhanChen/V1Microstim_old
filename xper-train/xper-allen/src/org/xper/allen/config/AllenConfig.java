@@ -34,6 +34,7 @@ import org.springframework.config.java.annotation.ExternalValue;
 import org.springframework.config.java.annotation.Lazy;
 import org.springframework.config.java.annotation.valuesource.SystemPropertiesValueSource;
 import org.springframework.config.java.plugin.context.AnnotationDrivenConfig;
+import org.xper.config.BaseConfig;
 import org.xper.exception.DbException;
 import org.xper.experiment.DatabaseSystemVariableContainer;
 import org.xper.experiment.SystemVariableContainer;
@@ -46,7 +47,7 @@ import com.mchange.v2.c3p0.ComboPooledDataSource;
 @Configuration(defaultLazy=Lazy.TRUE)
 @SystemPropertiesValueSource
 @AnnotationDrivenConfig
-public class AllenConfig {
+public class AllenConfig extends BaseConfig {
 	
 	@ExternalValue("jdbc.driver")
 	public String jdbcDriver;

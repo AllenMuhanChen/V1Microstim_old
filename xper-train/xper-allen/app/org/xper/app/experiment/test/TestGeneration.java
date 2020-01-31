@@ -1,6 +1,7 @@
 package org.xper.app.experiment.test;
 
 import org.xper.Dependency;
+import org.xper.allen.config.AllenDbUtil;
 import org.xper.exception.VariableNotFoundException;
 import org.xper.experiment.StimSpecGenerator;
 import org.xper.time.TimeUtil;
@@ -8,7 +9,7 @@ import org.xper.util.DbUtil;
 
 public class TestGeneration {
 	@Dependency
-	DbUtil dbUtil;
+	AllenDbUtil dbUtil;
 	@Dependency
 	TimeUtil globalTimeUtil;
 	@Dependency
@@ -50,7 +51,7 @@ public class TestGeneration {
 		return dbUtil;
 	}
 
-	public void setDbUtil(DbUtil dbUtil) {
+	public void setDbUtil(AllenDbUtil dbUtil) {
 		this.dbUtil = dbUtil;
 	}
 

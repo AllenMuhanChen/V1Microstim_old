@@ -31,24 +31,25 @@
 	<classpathentry kind="lib" path="/xper/lib/swingx-0.9.3.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/xpp3_min-1.1.3.4.O.jar"/>
 	<classpathentry kind="lib" path="/xper/lib/xstream-1.2.1.jar" sourcepath="/Users/sach/.m2/repository/com/thoughtworks/xstream/xstream/1.2.1/xstream-1.2.1-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/allenchen/Documents/GitHub/V1Microstim_old/xper-train/xper/lib/spring-framework/spring-core.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/com.springsource.javax.annotation-1.0.0.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-aop.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-beans.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-context-support.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-context.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-core.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-javaconfig.jar" sourcepath="/media/sda5/Source/spring-javaconfig"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-jdbc.jar" sourcepath="/media/sda5/Source/spring-framework-2.5.6.SEC01"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-jms.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-orm.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-test.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-tx.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-web.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-webmvc-portlet.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-webmvc-struts.jar"/>
-	<classpathentry kind="lib" path="/xper/lib/spring-framework/spring-webmvc.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/xper"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/xper-example"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/xper-native"/>
+	<classpathentry kind="lib" path="/xper/lib/spring/com.springsource.javax.annotation-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/spring/spring-beans.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/spring/spring-context-support.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/spring/spring-context.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/spring/spring-core.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/spring/spring-javaconfig.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/spring/spring-jdbc.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/spring/spring-tx.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/lwjgl/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/lwjgl/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/lwjgl/jinput.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/lwjgl/lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/lwjgl/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/lwjgl/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/lwjgl/lwjgl-debug.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/lwjgl/lwjgl.jar"/>
+	<classpathentry kind="lib" path="/xper/lib/lwjgl/lzma.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

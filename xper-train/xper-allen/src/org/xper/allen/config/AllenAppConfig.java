@@ -37,7 +37,6 @@ import org.springframework.config.java.annotation.Lazy;
 import org.springframework.config.java.annotation.valuesource.SystemPropertiesValueSource;
 import org.springframework.config.java.plugin.context.AnnotationDrivenConfig;
 import org.xper.app.experiment.test.TestGeneration;
-import org.xper.app.experiment.test.TestGeneration;
 import org.xper.config.AcqConfig;
 import org.xper.config.BaseConfig;
 import org.xper.config.ClassicConfig;
@@ -54,7 +53,7 @@ import org.xper.example.classic.GaborSpecGenerator;
 @Import(ClassicConfig.class)
 public class AllenAppConfig {
 	@Autowired ClassicConfig classicConfig; //AC: changed to protected
-	//@Autowired BaseConfig baseConfig;
+	@Autowired BaseConfig baseConfig;
 	@Autowired AllenConfig allenConfig; 
 
 	@Autowired protected AcqConfig acqConfig;
@@ -94,7 +93,7 @@ public class AllenAppConfig {
 	@Bean
 	public TestGeneration randomGen () {
 		TestGeneration gen = new TestGeneration();
-		gen.setDbUtil(allenConfig.dbUtil());
+		gen.setDbUtil(allenConfig.allenDbUtil());
 		gen.setGlobalTimeUtil(acqConfig.timeClient());
 		gen.setTaskCount(100);
 		gen.setGenerator(generator());
